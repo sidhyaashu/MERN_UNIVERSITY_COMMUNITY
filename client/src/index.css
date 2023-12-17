@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  /* --git-dark:#222A35; */
+  --yt-light:#333333;
+  --yt-dark:#282828;
+  --yt-red:#FF0000;
+  --fb-dark-blue:#0165E1;
+  --fb-dark-blue:#17A9FD;
+
+  
+
+}
+
+
+body{
+  background-color:var(--yt-dark) ;
+}
+
+.box{
+  height: 300px;
+  width: 300px;
+  background-color: var(--yt-light);
+}
